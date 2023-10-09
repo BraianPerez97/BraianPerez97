@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=braianperez97&label=Profile%20views&color=0e75b6&style=flat" alt="braianperez97" /> </p>
 
-
-- 🔭 I’m currently working on **CoquiArts**
-
-- 💬 Ask me about **python, c,**
-
 - 📫 How to reach me **morfiproduction97@gmail.com**
 
 - ⚡ Fun fact **SciFi and Fantasy Geek**
