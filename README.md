@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=braianperez97&show_icons=true&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&locale=en&layout=compact" alt="braianperez97" /></p>
 
-<p><img align="cemter" src="https://github-readme-streak-stats.herokuapp.com/?user=braianperez97&show_icons=true&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&locale=en&layout=compact" alt="braianperez97" /></p>
+<p><img align="cemter" src="https://github-readme-streak-stats.herokuapp.com/?user=braianperez97&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&locale=en&layout=compact" alt="braianperez97" /></p>
 
 
 
