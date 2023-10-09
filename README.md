@@ -18,11 +18,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=braianperez97&show_icons=true&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&locale=en&layout=compact" alt="braianperez97" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=braianperez97&show_icons=true&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&locale=en&layout=compact" alt="braianperez97" /></p>
+<p><img align="cemter" src="https://github-readme-streak-stats.herokuapp.com/?user=braianperez97&show_icons=true&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&locale=en&layout=compact" alt="braianperez97" /></p>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=braianperez97&show_icons=true&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&locale=en&layout=compact" alt="braianperez97" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&margin-w=15&theme=juicyfresh" alt="braianperez97" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
