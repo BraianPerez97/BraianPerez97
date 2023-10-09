@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Braian Perez</h1>
-<h3 align="center">A Fullstack Developer and Photographer from Puerto Rico</h3>
+<p>&nbsp;<img align="center" src="https://github.com/BraianPerez97/BraianPerez97/assets/124713168/dfaebc17-78bc-43ef-ad81-9d171c1354f3" alt="braianperez97" width="1000" height="300"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=braianperez97&label=Profile%20views&color=0e75b6&style=flat" alt="braianperez97" /> </p>
 
