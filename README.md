@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=braianperez97&label=Profile%20views&color=0e75b6&style=flat" alt="braianperez97" /> </p>
 
-- 📫 How to reach me **morfiproduction97@gmail.com**
+- 📫 How to reach me **BraianPerez97@proton.me**
 
 - ⚡ Fun fact **SciFi and Fantasy Geek**
   
